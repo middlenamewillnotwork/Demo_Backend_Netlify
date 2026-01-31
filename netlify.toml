@@ -1,0 +1,5 @@
+[build]
+  # Publish directory for static site (root for this simple demo)
+  publish = "."
+  # Netlify Functions folder
+  functions = "netlify/functions"
